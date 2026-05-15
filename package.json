@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-amazonscraperapi",
-	"version": "0.1.0-beta.1",
+	"version": "0.1.0",
 	"description": "n8n community node for Amazon Scraper API — fetch Amazon product data, run keyword searches, and queue async batches.",
 	"license": "MIT",
 	"homepage": "https://www.amazonscraperapi.com/",

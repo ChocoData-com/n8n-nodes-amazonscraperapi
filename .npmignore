@@ -8,3 +8,5 @@ eslint.config.mjs
 .vscode
 .idea
 *.tsbuildinfo
+dist/tsconfig.tsbuildinfo
+**/*.tsbuildinfo

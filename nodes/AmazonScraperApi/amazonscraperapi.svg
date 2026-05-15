@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
+  <!-- Brand background tile -->
+  <rect width="60" height="60" rx="12" fill="#131A22"/>
+  <!-- Stylised "A" — Amazon-orange wordmark glyph -->
+  <path d="M14 42 L24 18 L30 18 L40 42 L34 42 L32.2 37 L21.8 37 L20 42 Z M23.6 32 L30.4 32 L27 23 Z"
+        fill="#FF9900"/>
+  <!-- The classic Amazon smile arrow, looped under the A -->
+  <path d="M12 47 Q30 56 48 47"
+        stroke="#FF9900" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Arrowhead at the right end of the smile -->
+  <path d="M44 44 L48 47 L44 50" stroke="#FF9900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
